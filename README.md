@@ -1,2 +1,0 @@
-# JumpingFox
- Jumping Fox Test
